@@ -2,7 +2,7 @@
 lock "~> 3.17.3"
 
 set :application, "yaakoub"
-set :repo_url, "git@example.com:me/my_repo.git"
+set :repo_url, "debian@192.168.109.134:/var/www/yaakoub/"
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
